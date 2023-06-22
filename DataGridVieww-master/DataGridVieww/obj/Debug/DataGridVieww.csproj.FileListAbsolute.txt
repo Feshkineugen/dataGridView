@@ -1,0 +1,11 @@
+C:\Users\feshk\source\repos\DataGridVieww-master\DataGridVieww\bin\Debug\DataGridVieww.exe.config
+C:\Users\feshk\source\repos\DataGridVieww-master\DataGridVieww\bin\Debug\DataGridVieww.exe
+C:\Users\feshk\source\repos\DataGridVieww-master\DataGridVieww\bin\Debug\DataGridVieww.pdb
+C:\Users\feshk\source\repos\DataGridVieww-master\DataGridVieww\obj\Debug\DataGridVieww.csproj.AssemblyReference.cache
+C:\Users\feshk\source\repos\DataGridVieww-master\DataGridVieww\obj\Debug\DataGridVieww.csproj.SuggestedBindingRedirects.cache
+C:\Users\feshk\source\repos\DataGridVieww-master\DataGridVieww\obj\Debug\DataGridVieww.Form1.resources
+C:\Users\feshk\source\repos\DataGridVieww-master\DataGridVieww\obj\Debug\DataGridVieww.Properties.Resources.resources
+C:\Users\feshk\source\repos\DataGridVieww-master\DataGridVieww\obj\Debug\DataGridVieww.csproj.GenerateResource.cache
+C:\Users\feshk\source\repos\DataGridVieww-master\DataGridVieww\obj\Debug\DataGridVieww.csproj.CoreCompileInputs.cache
+C:\Users\feshk\source\repos\DataGridVieww-master\DataGridVieww\obj\Debug\DataGridVieww.exe
+C:\Users\feshk\source\repos\DataGridVieww-master\DataGridVieww\obj\Debug\DataGridVieww.pdb
